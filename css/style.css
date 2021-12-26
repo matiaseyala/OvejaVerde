@@ -368,3 +368,6 @@ p {
     .flora .container-img-semana1 figure {
       width: 100%;
       margin: 0; } }
+
+.list-group-item {
+  background-color: red; }
