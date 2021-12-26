@@ -1,0 +1,86 @@
+.glosario {
+    .texto-glosario-inicial{
+     font-size: 20px;
+     margin: 5px;
+     padding: 2px;
+     font-style: italic;
+    }
+    .texto-glosario-indice{
+        font-size: 17px;
+        margin: 5px;
+        padding: 2px;
+        font-style: italic;
+    }
+    .texto-glosario{
+        padding: 20px;
+        margin: 10px;
+        font-style: italic;
+        font-size: 17px;
+        text-align: justify;
+    }
+    .glosario-indice {
+        display: flex;
+    }
+
+    .first-ol {
+        display: inline;
+
+        li {
+            display: inline;
+            // // list-style-type: none;
+            // // text-decoration: none;
+            // // padding: 10px;
+            // // background:none;
+            // //font-family: 'Abel', sans-serif;
+            // //font-family: 'Roboto', sans-serif;
+            
+        }
+
+    }
+
+    .container-glosario {
+        .container-img-glosario {
+            display: flex;
+            justify-content: center;
+            .glosario-img {
+                width: 100%;
+                height: auto;
+            }
+
+        }
+    }
+    p{   //font-family: 'Alfa Slab One', cursive;
+
+        //font-family: 'Cormorant Upright', serif;
+    
+        //font-family: 'EB Garamond', serif;
+    
+        //font-family: 'Flow Rounded', cursive;
+    
+        //font-family: 'Fredoka One', cursive;
+    
+        //font-family: 'Lato', sans-serif;
+    
+        //font-family: 'Luckiest Guy', cursive;
+    
+        //font-family: 'Montserrat', sans-serif;
+    
+        //font-family: 'Nunito', sans-serif;
+    
+        //font-family: 'Poppins', sans-serif;
+    
+        //font-family: 'PT Sans', sans-serif;
+    
+        //font-family: 'Red Hat Display', sans-serif;
+    
+        //font-family: 'Secular One', sans-serif;
+    
+        //font-family: 'Sigmar One', cursive;
+    
+        //font-family: 'Spectral SC', serif;
+    
+        //font-family: 'Ubuntu', sans-serif;
+    }
+}
+
+
