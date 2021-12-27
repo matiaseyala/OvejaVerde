@@ -65,7 +65,7 @@ nav a:hover {
     scale: 1, 1; }
 
 .btn {
-  background-color: white; }
+  background-color: #78B078; }
 
 .img1 {
   border: 1px black solid;
@@ -138,7 +138,8 @@ footer {
   justify-content: space-around; }
 
 h1 {
-  background-color: #91B57B; }
+  background-color: #91B57B;
+  text-align: center; }
 
 h2 {
   background-color: #E3E1B6; }
